@@ -43,5 +43,4 @@ public class Booking
 		int booked = bookingDao.getBookedCount(busNo, date);
 		return booked < capacity; 
 	}
-
 }
