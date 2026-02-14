@@ -32,7 +32,5 @@ public class BookingDAO
 		pst.setDate(3, sqldate);
 		
 		pst.executeUpdate();
-		
 	}
-
 }
