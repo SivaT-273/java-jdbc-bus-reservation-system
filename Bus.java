@@ -37,7 +37,4 @@ public class Bus
 	{
 		capacity = cap;
 	}
-	
-	
-
 }
