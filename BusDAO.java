@@ -39,7 +39,5 @@ public class BusDAO
 		rs.next();
 		
 		return rs.getInt(1);
-		
 	}
-
 }
