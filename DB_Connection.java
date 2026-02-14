@@ -11,5 +11,4 @@ public class DB_Connection
 	{
 		return DriverManager.getConnection(url, userName, passWord);
 	}
-
 }
